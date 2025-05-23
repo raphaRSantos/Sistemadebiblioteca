@@ -8,3 +8,5 @@ Requisitos:
 Como rodar:
 1. Importe o script 'database/biblioteca.sql' no seu banco de dados MySQL.
 2. Compile e execute o programa a partir da classe 'src.Main'.
+
+Interface simples de registro de livros
